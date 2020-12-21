@@ -1,0 +1,8 @@
+name=AutoChess
+version=0.0.1
+author=tp-ops
+maintainer=tp-ops
+sentence=Arduino library for AutoChess board
+paragraph=Easily configure your TMC2208 stepper motor drivers en AutoChess board
+category=Device Control
+architectures=avr
